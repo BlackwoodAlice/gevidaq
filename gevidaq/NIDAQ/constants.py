@@ -59,6 +59,7 @@ class NiDaqChannels:
             "trigger1Channel": "/Dev1/PFI2",
             "clock2Channel": "/Dev2/PFI1",
             "trigger2Channel": "/Dev2/PFI7",
+            #new channel
         }
 
         # self.patchVoltOutChannel = "Dev1/ai22"
